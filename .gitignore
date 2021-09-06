@@ -3,3 +3,4 @@ yarn.lock
 downloads
 certificates/cert.pem
 certificates/key.pem
+coverage
